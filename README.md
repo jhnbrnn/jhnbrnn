@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm John 👋
+
+I'm a Senior Developer Advocate at [Clio](https://www.clio.com); before diving into DevRel I spent a decade building software and managing teams. I'm interested in the Rails ecosystem, API design, and great developer experiences.
 
 <!--
 **jhnbrnn/jhnbrnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
